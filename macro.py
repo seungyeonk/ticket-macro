@@ -5,7 +5,7 @@ import numpy as np
 
 # ------------------- 설정 -------------------
 # coordination_picker.py를 실행해서 region 값을 구하세요
-region = (23, 157, 648, 611)  # (x, y, width, height)
+region = (284, 464, 408, 290)  # (x, y, width, height)
 
 # 예매 사이트에 따라 좌석 색상 변경
 # target_color = (79, 166, 52)    # 초록
